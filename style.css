@@ -1,0 +1,28 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(to bottom, #74ebd5, #acb6e5);
+}
+div
+{
+    margin-top: 75px;
+}
+.image-section
+{
+    display: flex;
+    justify-content: center;
+}
+.section-style
+{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: azure;
+}
+img
+{
+    height:500px;
+}
+p
+{
+    height:50px;
+}
